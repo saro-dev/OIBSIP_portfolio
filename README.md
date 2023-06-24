@@ -60,8 +60,8 @@ The portfolio project is licensed under the [MIT License](LICENSE.md). You are f
 
 If you have any questions or would like to get in touch, you can reach me at:
 
-- Email: [your-email@example.com](mailto:codersaro.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/saravananforyou)
-- Website: [Your Personal Website](https://saro-dev.netlify.app)
+- Email: [Mail](mailto:codersaro.com)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/saravananforyou)
+- Website: [Personal Website](https://saro-dev.netlify.app)
 
 Thank you for visiting my portfolio project! I hope you find it informative and engaging.
